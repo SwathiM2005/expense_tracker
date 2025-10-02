@@ -1,7 +1,7 @@
 # expense_tracker
 A simple Python-based Expense Tracker that allows users to record daily expenses, categorize them, and view the data in a tabular format. This project uses file handling to store data and is a great starting point for learning how to build practical applications in Python.
 
-#features
+**#features**
 Add Expenses – Record expenses with category, amount, and description.
 
 View Expenses – Display all recorded expenses in a clean, tabular format.
@@ -12,7 +12,7 @@ Categorization – Helps organize expenses under categories (e.g., Food, Travel,
 
 Simple & Beginner-Friendly – Easy to use and understand for anyone new to Python.
 
-How to Use:
+**How to Use:**
 
 1.Run the program with python expense_tracker.py
 
