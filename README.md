@@ -11,3 +11,13 @@ File Storage – Saves expenses in a text file so data is not lost when the prog
 Categorization – Helps organize expenses under categories (e.g., Food, Travel, Shopping, etc.).
 
 Simple & Beginner-Friendly – Easy to use and understand for anyone new to Python.
+
+How to Use:
+
+1.Run the program with python expense_tracker.py
+
+2.Add your expenses (category, amount, description)
+
+3.View all expenses in the table
+
+4.Exit when done
